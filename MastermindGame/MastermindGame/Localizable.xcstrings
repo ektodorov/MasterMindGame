@@ -1,0 +1,41 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "A" : {
+
+    },
+    "B" : {
+
+    },
+    "C" : {
+
+    },
+    "Check" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Проверка"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Controlar"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rekening"
+          }
+        }
+      }
+    },
+    "D" : {
+
+    }
+  },
+  "version" : "1.0"
+}
